@@ -1,10 +1,10 @@
 ---
-title: Project Title 6
+title: Meal Finder
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_image: images/6_thumb.jpg
+thumb_image: images/meal-finder.png
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/meal-finder.png
 image_alt: A handheld game console on a yellow background
 template: project
 ---

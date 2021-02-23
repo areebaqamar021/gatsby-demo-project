@@ -3,7 +3,7 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "devfolio",
         "has_nav": true,
         "nav_links": [
             {
@@ -17,12 +17,7 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
+                "label": "Style Gudie",
                 "url": "/style-guide/",
                 "style": "link"
             },
@@ -39,38 +34,38 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; areebaqamar. All rights reserved. <a href=\"https://www.github.com/areebaqamar021\" target=\"_blank\" rel=\"noopener\">devfolio</a>",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/AreebaQamar5/",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/_areebaqamar__/",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
             },
             {
                 "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "url": "https://dribbble.com/areebaqamar/",
                 "style": "icon",
                 "icon_class": "fa-dribbble",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/areeba-qamar-7a40471a4/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "Devfolio Areeba Qamar"
 }

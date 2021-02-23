@@ -1,10 +1,10 @@
 ---
-title: Project Title 4
+title: Html-CSS
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/html-css.png
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: images/html-css.png
 image_alt: A table tennis racket on a pink background
 template: project
 ---

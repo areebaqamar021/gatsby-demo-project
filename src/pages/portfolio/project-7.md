@@ -1,10 +1,10 @@
 ---
-title: Project Title 7
+title: Covid App
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
-thumb_image: images/7_thumb.jpg
+thumb_image: images/covid-app.png
 thumb_image_alt: A black headphones on a yeallow background
-image: images/7.jpg
+image: images/covid-app.png
 image_alt: A black headphones on a yeallow background
 template: project
 ---

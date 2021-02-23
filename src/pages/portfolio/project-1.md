@@ -1,10 +1,10 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: React Portfolio
+subtitle: Static React JS Portfolio
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/portfolio.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/portfolio.png
 image_alt: 'White, black, and red shoe sole'
 template: project
 ---

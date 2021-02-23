@@ -1,10 +1,10 @@
 ---
-title: Project Title 3
+title: TodoList
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/todolist.png
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/todolist.png
 image_alt: A yellow retro telephone on a yellow background
 template: project
 ---
